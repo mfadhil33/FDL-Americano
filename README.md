@@ -26,6 +26,7 @@
 
 </details>
 
+<img src="https://github.com/mfadhil33/FDL-Americano/blob/main/out/architecture/padhil.svg" alt="Architecture" width="600" />
 ### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 Fadhil
 
 
